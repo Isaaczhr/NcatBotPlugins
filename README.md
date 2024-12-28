@@ -1,7 +1,9 @@
 # NcatBotPlugins
 ---
 [NcatBot插件商店](https://home.ncatbot.xyz)
+
 [NcatBot使用文档](https://home.ncatbot.xyz)
+
 [主项目链接](https://github.com/liyihao1110/NcatBot)
 
 欢迎提交你自己的插件！
