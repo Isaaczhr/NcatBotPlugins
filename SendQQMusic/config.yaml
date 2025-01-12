@@ -1,0 +1,6 @@
+plugin:
+  qqmusic:
+    # 浏览器驱动类型edge/chrome/firefox
+    driver: edge
+    # 浏览器驱动路径
+    driver_path: C:\your_path\msedgedriver.exe

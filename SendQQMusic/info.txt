@@ -1,0 +1,2 @@
+anthor: 木子
+备注: 这是一个可以发送QQ分享音乐的插件，你可以直接使用main.py的代码了解这个插件。别忘了安装配置部分pip库和添加config.yaml的配置，不是要新建config.yaml，而是在原先的config.yaml中添加所需配置。
